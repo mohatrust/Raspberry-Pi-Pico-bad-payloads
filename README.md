@@ -1,4 +1,4 @@
-# Raspberry-Pi-Pico-bad-payloads
+# Raspberry-Pi-Pico-usb-payloads
 
 
 
